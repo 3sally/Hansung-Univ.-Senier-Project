@@ -1,1 +1,2 @@
-# SmartBox 졸업작품 
+# Hansung Univ.
+SmartBox 졸업작품 
